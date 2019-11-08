@@ -1,0 +1,12 @@
+name: 'Changed Paths'
+description: 'Determine if files in a given path have changed'
+runs:
+  using: 'node12'
+  main: 'index.js'
+inputs:
+  path:
+    description: 'Path to check for changes'
+    required: true
+  var:
+    description: 'Environment variable to set if changed'
+    required: true

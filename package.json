@@ -1,0 +1,13 @@
+{
+  "name": "path-changed-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PledgeIt/path-changed-action.git",
+  "author": "joshlasdin <joshlasdindesign@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.0",
+    "@actions/github": "^1.1.0",
+    "check-if-folder-contents-changed-in-git-commit-range": "^1.0.0"
+  }
+}
