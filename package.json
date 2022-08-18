@@ -6,7 +6,7 @@
   "author": "joshlasdin <joshlasdindesign@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.0",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^1.1.0",
     "check-if-folder-contents-changed-in-git-commit-range": "^1.0.0"
   }
